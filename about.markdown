@@ -1,7 +1,10 @@
 ---
-layout: page
+layout: home
 title: About
 permalink: /about/
+profile_picture:
+  src: /assets/img/planets.jpg
+  alt: planets
 ---
 
-I am professional and experienced astrologist.
+My name is **Yelena**.

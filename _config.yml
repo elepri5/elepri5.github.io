@@ -59,3 +59,24 @@ remote_theme: eliottvincent/bay
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+
+# BAY THEME
+header:
+  pages:
+    - name: Home
+      slug: /     # <-- index.md
+    - name: Services  # <-- blog.md
+    - name: About  # <-- whatever.md
+
+footer:
+  show_powered_by: false
+  contact:
+    - name: Email
+      value: contact@timewithin.me
+      link: mailto:contact@timewithin.me
+
+  follow:
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"

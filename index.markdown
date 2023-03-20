@@ -4,9 +4,9 @@
 
 layout: home
 profile_picture:
-src: /assets/img/TWLogo.png
-alt: planets
-
+  src: /assets/img/planets.jpg
+  alt: planets
+---
 
 # What is Vedic Astrology?
 

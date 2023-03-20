@@ -11,5 +11,5 @@ My name is **Yelena**. I’m a trained astrologer in the parampara (tradition) o
 
 In the background I have a PhD in Math, and over 10 years experience as a university professor. In my astrological practice I benefit a lot from my teaching and research experience. My approach to chart reading is based on combining ancient wisdom with logic and modern scientific achievements.
 
-I’m also interested in psychology, especially in Gordon Neufeld’s attachment-based developmental approach and in emotionally focused therapy.
+I’m also interested in psychology, especially in <a href="https://neufeldinstitute.org">Gordon Neufeld’s</a>  attachment-based developmental approach and in <a href="https://iceeft.com/what-is-eft/"> emotionally focused therapy</a>.
 

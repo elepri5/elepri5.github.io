@@ -7,7 +7,7 @@ profile_picture:
   alt: logo
 ---
 
-<a href = "https://form.jotform.com/230673382561356"> <b>Consultation form</b> </a>
+<a href = "https://form.jotform.com/230673382561356"> <big><b>Consultation form</b></big> </a>
 
 # Initial consultation
 

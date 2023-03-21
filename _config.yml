@@ -67,6 +67,7 @@ header:
     - name: Home
       slug: /     # <-- index.md
     - name: Services  # <-- blog.md
+    - name: Consultation form
     - name: About  # <-- whatever.md
 
 footer:

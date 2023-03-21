@@ -3,9 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-profile_picture:
-  src: /assets/img/LogoTextPic.jpeg
-  alt: logo
+
 ---
 
 ![Logo](/assets/img/LogoTextPic.jpeg)

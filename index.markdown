@@ -8,6 +8,8 @@ profile_picture:
   alt: logo
 ---
 
+<img src=”assets/img/LogoTextPic.jpeg”>
+
 # What is Vedic Astrology?
 
 Ancient seers observed that time is not just a linear measure of change, but is also the force that maintains equilibrium in the Universe by deciding which events to manifest and in which order (the winter is always followed by the spring, youth is followed by old age, etc). Thus, Vedic Astrology is, in essence, the study of Time, and its impact on our lives. 

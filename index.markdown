@@ -8,7 +8,7 @@ profile_picture:
   alt: logo
 ---
 
-src: /assets/img/LogoTextPic.jpeg
+![image-title-here](/assets/img/LogoTextPic.jpeg){:class="img-responsive"}
 
 # What is Vedic Astrology?
 

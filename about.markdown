@@ -3,7 +3,7 @@ layout: home
 title: About
 permalink: /about/
 profile_picture:
-  src: /assets/img/planets.jpg
+  src: /assets/img/Lena.jpeg
   alt: planets
 ---
 

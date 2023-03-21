@@ -3,8 +3,8 @@ layout: home
 title: Services
 permalink: /services/
 profile_picture:
-  src: /assets/img/planets.jpg
-  alt: planets
+  src: /assets/img/logo.jpg
+  alt: logo
 ---
 
 <a href = "https://form.jotform.com/230673382561356"> # Consultation form </a>

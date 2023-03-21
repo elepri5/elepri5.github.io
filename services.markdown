@@ -19,3 +19,5 @@ This session is for additional questions beyond the birth chart reading. We can 
 # Child consultation
 
 This session is for parents or carers. It covers the analysis of the inner nature of the child; potential strengths that can be enhanced, potential weaknesses that need some attention; the ways the child is best approached in raising and educating; general life direction and purpose. The relationship between the child and the parent/carer (the one taking consultation) can optionally be discussed (birth data of the parent/carer provided).
+
+# Compatibility consultation

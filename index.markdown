@@ -4,7 +4,7 @@
 
 layout: home
 profile_picture:
-  src: /assets/img/planets.jpg
+  src: /assets/img/LogoTextPic.jpeg
   alt: planets
 ---
 

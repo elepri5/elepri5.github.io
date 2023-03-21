@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 profile_picture:
   src: /assets/img/Lena.jpeg
-  alt: planets
+  alt: Yelena
 ---
 
 My name is **Yelena**. I’m a trained astrologer in the parampara (tradition) of  <a href="https://en.wikipedia.org/wiki/Achyutananda_Dasa">Sri Achyutananda Das</a> . This tradition comes from Odisha region in India, and is over 500 years old. The current Parampara Guru is <a href="https://srath.com">Pandit Sanjay Rath</a> .

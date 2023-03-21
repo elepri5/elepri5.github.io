@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-profile_picture:
+#profile_picture:
   src: /assets/img/LogoTextPic.jpeg
-  alt: planets
+  alt: logo
 ---
 
 # What is Vedic Astrology?

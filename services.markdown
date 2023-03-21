@@ -7,6 +7,8 @@ profile_picture:
   alt: planets
 ---
 
+<a href = "https://form.jotform.com/230673382561356"> # Consultation form </a>
+
 # Initial consultation
 
 This session covers the basic nature of the individual. It highlights strengths that can be relied upon, and weaknesses that can impede one from living to the highest potential. The reading also covers the analysis of karmic lessons of the individual, and soul’s life purpose.
@@ -23,4 +25,4 @@ This session is for parents or carers. It covers the analysis of the inner natur
 # Compatibility consultation
 
 
-<a href = "https://form.jotform.com/230673382561356"><b Consultation form /b></a>
+

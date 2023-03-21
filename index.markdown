@@ -4,7 +4,6 @@
 
 layout: home
 
----
 
 ![Logo](/assets/img/LogoTextPic.jpeg)
 

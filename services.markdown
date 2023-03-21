@@ -3,7 +3,7 @@ layout: home
 title: Services
 permalink: /services/
 profile_picture:
-  src: /assets/img/TWlogo.png
+  src: /assets/img/TWLogo.png
   alt: logo
 ---
 

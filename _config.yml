@@ -34,8 +34,8 @@ url: "https://timewithin.me" # the base hostname & protocol for your site, e.g. 
 #minima:
 #  skin: auto
 
-#remote_theme: eliottvincent/bay
-theme: bay_jekyll_theme
+remote_theme: eliottvincent/bay
+#theme: bay_jekyll_theme
 
 #plugins:
 #  - jekyll-feed

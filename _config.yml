@@ -84,6 +84,8 @@ footer:
     - name: Email
       value: contact@timewithin.me
       link: mailto:contact@timewithin.me
+    - name: WhatsApp
+      link: https://wa.me/447308138558
 
   follow:
     - name: Telegram
